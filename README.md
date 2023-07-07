@@ -3,7 +3,8 @@
 ## Docs - /docs
 
 ## Install
-```git clone https://github.com/PyDevNik/chat-api.git
+```sh
+git clone https://github.com/PyDevNik/chat-api.git
 cd chat-api
 ```
 
